@@ -24,11 +24,13 @@ I love implementing responsiveness and clean design to personal projects such as
 
 My interests range from Software Engineering to Machine Learning.
 
+Open to collaborate with other software developers.
+
 ---
 
 <div id "header" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byrongomezjr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byrongomezjr&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
