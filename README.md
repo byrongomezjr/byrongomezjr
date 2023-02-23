@@ -3,12 +3,6 @@
 </div>
 
 
-<div id"header" align="center">
-
-![](https://komarev.com/ghpvc/?username=byrongomezjr)
-
-</div>
-
 
 <div id="column" align="center">
 <h1>Welcome!</h1>
@@ -18,13 +12,13 @@
 
 ### Introduction :coffee: :
 
-I am a Computer Science student at Rutgers, currently on my second year.
+Hi, I'm a Computer Science & Economics student at Rutgers, currently on my second year.
 
 I love implementing responsiveness and clean design to personal projects such as mobile and web apps that live on the internet; 
 
 My interests range from Software Engineering to Machine Learning.
 
-Open to collaborate with other software developers.
+I am also open to collaborate with other CS students & software developers.
 
 ---
 
