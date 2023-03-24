@@ -12,7 +12,7 @@
 
 ### Introduction :coffee: :
 
-Hi, I'm a Computer Science & Economics student at Rutgers, currently on my second year.
+Hi, I'm a Computer Science & Economics student at Rutgers, currently on my third year.
 
 I love implementing responsiveness and clean design to personal projects such as mobile and web apps that live on the internet; 
 
