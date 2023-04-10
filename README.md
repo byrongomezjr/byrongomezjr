@@ -24,7 +24,6 @@ I am also open to collaborate with other CS students & software developers.
 
 <div id "header" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byrongomezjr&layout=compact)](https://github.com/byrongomezjr/github-readme-stats)
 
 </div>
 
