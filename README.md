@@ -18,7 +18,7 @@ I love implementing responsiveness and clean design to personal projects such as
 
 My interests range from Software Engineering to Machine Learning, as well as Data Analytics.
 
-I am open to collaborate with other CS students & software engineers.
+I am open to collaborate with current CS students & software engineers alike.
 
 ---
 
