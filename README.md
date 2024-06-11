@@ -12,13 +12,13 @@
 
 ### Introduction :coffee: :
 
-Hi, I'm a Computer Science & Economics student at Rutgers, currently on my third year.
+Hi, I'm a Computer Science & Economics student at Rutgers, currently on my last year.
 
 I love implementing responsiveness and clean design to personal projects such as mobile and web apps that live on the internet; 
 
-My interests range from Software Engineering to Machine Learning.
+My interests range from Software Engineering to Machine Learning, as well as Data Analytics.
 
-I am also open to collaborate with other CS students & software developers.
+I am open to collaborate with other CS students & software engineers.
 
 ---
 
