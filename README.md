@@ -10,23 +10,16 @@
 
 ### About Me :coffee:
 
-I'm a **Computer Science & Economics** student at **Rutgers University**, currently in my final year. My academic journey and personal projects have fueled a strong interest in **Software Engineering**, **Artificial Intelligence (AI)**, and **Machine Learning (ML)**. 
-
-I enjoy tackling challenges in **algorithmic design**, **predictive modeling**, and **data-driven decision-making**, and I’m dedicated to building impactful applications using cutting-edge AI/ML techniques.
+Computer Science and Economics student at Rutgers University; currently on my senior year
 
 ---
 
 ### Projects & Interests :chart_with_upwards_trend:
 
-- **AI/ML Projects**: Developing machine learning models and exploring neural networks to solve complex real-world problems.
+- **Artificial Intelligence & Machine Learning**: Developing machine learning models and exploring neural networks to solve complex real-world problems.
 - **Software Engineering**: Applying principles of software design to create scalable, maintainable systems.
 - **Data Analysis**: Leveraging data for insights in fields such as finance and economics.
 
----
-
-<div id="header" align="center">
-  Let's connect and build the future of intelligent technology together!
-</div>
 
 <!--
 **byrongomezjr/byrongomezjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
