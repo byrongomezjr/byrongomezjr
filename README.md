@@ -10,15 +10,15 @@
 
 ### About Me :coffee:
 
-Computer Science and Economics student at Rutgers University; currently on my senior year
+Computer Science and Economics student at Rutgers University
 
 ---
 
 ### Projects & Interests :chart_with_upwards_trend:
 
-- **Artificial Intelligence & Machine Learning**: Developing machine learning models and exploring neural networks to solve complex real-world problems.
-- **Software Engineering**: Applying principles of software design to create scalable, maintainable systems.
-- **Data Analysis**: Leveraging data for insights in fields such as finance and economics.
+- **Software Engineering**: Applying principles of software design to create scalable, maintainable systems
+- **Artificial Intelligence & Machine Learning**: Developing machine learning models and exploring neural networks to solve complex real-world problems
+- **Data Analysis**: Leveraging data for insights in fields such as finance and economics
 
 
 <!--
