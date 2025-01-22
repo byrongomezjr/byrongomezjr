@@ -11,16 +11,3 @@
 ### About Me :coffee:
 
 Computer Science and Economics student at Rutgers University
-
----
-
-### Projects & Interests :chart_with_upwards_trend:
-
-- **Software Engineering**: Applying principles of software design to create scalable, maintainable systems
-- **Artificial Intelligence & Machine Learning**: Developing machine learning models and exploring neural networks to solve complex real-world problems
-- **Data Analysis**: Leveraging data for insights in fields such as finance and economics
-
-
-<!--
-**byrongomezjr/byrongomezjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
