@@ -3,7 +3,6 @@
 </div>
 
 <div id="column" align="center">
-  <h1>Welcome!</h1>
 </div>
 
 ---
