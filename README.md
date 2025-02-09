@@ -4,9 +4,3 @@
 
 <div id="column" align="center">
 </div>
-
----
-
-### About Me :coffee:
-
-Computer Science and Economics student at Rutgers University
